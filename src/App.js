@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          This is a test update. Adding a new change to the main branch
         </a>
       </header>
     </div>
